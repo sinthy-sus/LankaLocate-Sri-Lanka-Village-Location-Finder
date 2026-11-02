@@ -1,0 +1,110 @@
+[
+  {
+    "code": "WP",
+    "name_en": "Western Province",
+    "name_si": "බස්නාහිර පළාත",
+    "name_ta": "மேல் மாகாணம்",
+    "capital_en": "Colombo",
+    "capital_si": "කොළඹ",
+    "capital_ta": "கொழும்பு",
+    "latitude": 6.9271,
+    "longitude": 79.8612,
+    "area_sq_km": 3684
+  },
+  {
+    "code": "CP",
+    "name_en": "Central Province",
+    "name_si": "මධ්‍යම පළාත",
+    "name_ta": "மத்திய மாகாணம்",
+    "capital_en": "Kandy",
+    "capital_si": "මහනුවර",
+    "capital_ta": "கண்டி",
+    "latitude": 7.2906,
+    "longitude": 80.6337,
+    "area_sq_km": 5674
+  },
+  {
+    "code": "SP",
+    "name_en": "Southern Province",
+    "name_si": "දකුණු පළාත",
+    "name_ta": "தென் மாகாணம்",
+    "capital_en": "Galle",
+    "capital_si": "ගාල්ල",
+    "capital_ta": "காலி",
+    "latitude": 6.0535,
+    "longitude": 80.2210,
+    "area_sq_km": 5544
+  },
+  {
+    "code": "NP",
+    "name_en": "Northern Province",
+    "name_si": "උතුරු පළාත",
+    "name_ta": "வட மாகாணம்",
+    "capital_en": "Jaffna",
+    "capital_si": "යාපනය",
+    "capital_ta": "யாழ்ப்பாணம்",
+    "latitude": 9.6615,
+    "longitude": 80.0255,
+    "area_sq_km": 8884
+  },
+  {
+    "code": "EP",
+    "name_en": "Eastern Province",
+    "name_si": "නැගෙනහිර පළාත",
+    "name_ta": "கிழக்கு மாகாணம்",
+    "capital_en": "Trincomalee",
+    "capital_si": "ත්රිකුණාමලය",
+    "capital_ta": "திருகோணமலை",
+    "latitude": 8.5874,
+    "longitude": 81.2152,
+    "area_sq_km": 9996
+  },
+  {
+    "code": "NWP",
+    "name_en": "North Western Province",
+    "name_si": "වයඹ පළාත",
+    "name_ta": "வடமேல் மாகாணம்",
+    "capital_en": "Kurunegala",
+    "capital_si": "කුරුණෑගල",
+    "capital_ta": "குருணாகல்",
+    "latitude": 7.4863,
+    "longitude": 80.3623,
+    "area_sq_km": 7888
+  },
+  {
+    "code": "NCP",
+    "name_en": "North Central Province",
+    "name_si": "උතුරු මැද පළාත",
+    "name_ta": "வடமத்திய மாகாணம்",
+    "capital_en": "Anuradhapura",
+    "capital_si": "අනුරාධපුරය",
+    "capital_ta": "அனுராதபுரம்",
+    "latitude": 8.3114,
+    "longitude": 80.4037,
+    "area_sq_km": 10472
+  },
+  {
+    "code": "UP",
+    "name_en": "Uva Province",
+    "name_si": "ඌව පළාත",
+    "name_ta": "ஊவா மாகாணம்",
+    "capital_en": "Badulla",
+    "capital_si": "බදුල්ල",
+    "capital_ta": "பதுளை",
+    "latitude": 6.9934,
+    "longitude": 81.0550,
+    "area_sq_km": 8500
+  },
+  {
+    "code": "SBP",
+    "name_en": "Sabaragamuwa Province",
+    "name_si": "සබරගමුව පළාත",
+    "name_ta": "சப்ரகமுவ மாகாணம்",
+    "capital_en": "Ratnapura",
+    "capital_si": "රත්නපුර",
+    "capital_ta": "இரத்தினபுரி",
+    "latitude": 6.6828,
+    "longitude": 80.3992,
+    "area_sq_km": 4968
+  }
+]
